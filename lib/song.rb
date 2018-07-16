@@ -53,6 +53,7 @@ class Song
 end
 
 ninety_nine_problems = Song.new("99 Problems", "Jay-Z", "rap")
+random_jay_z = Song.new("Song name","Jay-Z","rap")
 puts ninety_nine_problems.name
 
 puts Song.genre_count
