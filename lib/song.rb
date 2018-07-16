@@ -56,3 +56,4 @@ ninety_nine_problems = Song.new("99 Problems", "Jay-Z", "rap")
 puts ninety_nine_problems.name
 
 puts Song.genre_count
+puts Song.artist_count
